@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankalinejr&show_icons=true&theme=transparent&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankalinejr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?frankalinejr=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frankalinejr)](https://github.com/anuraghazra/github-readme-stats)
