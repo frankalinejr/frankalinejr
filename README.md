@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 ![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankalinejr&show_icons=true&theme=transparent&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankalinejr&layout=compact&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankalinejr&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalinejr&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankalinejr&theme=gruvbox" /> 
