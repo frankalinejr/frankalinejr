@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=frankalinejr&show_icons=true&count_private=true&theme=gruvbox" />
+![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankalinejr&show_icons=true&theme=transparent)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankalinejr&layout=compact&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=frankalinejr&theme=gruvbox" /> 
