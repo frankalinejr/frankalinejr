@@ -2,12 +2,6 @@
 
 <h3 align="center"> Backend & Frontend Development + Cybersecurity </h3>
 
-<!-- - 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://something.com](https://something.com)
-
-- 📫 How to reach me **something@example.com** -->
-
 <!-- <h3 align="left"> Connect with me </h3>
 
 <p align="left">
@@ -20,6 +14,24 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yuzu.exe#6024" height="30" width="40" />
   </a>
 </p> -->
+
+<!-- - 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://something.com](https://something.com)
+
+- 📫 How to reach me **something@example.com** -->
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankalinejr&show_icons=true&locale=en&layout=compact&theme=react&count_private=true" alt="frankalinejr" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankalinejr&show_icons=true&locale=en&theme=react&count_private=true" alt="frankalinejr" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankalinejr&theme=react&count_private=true" alt="frankalinejr" />
+</p>
 
 <h3 align="left"> Languages and Tools </h3>
 
@@ -181,16 +193,4 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankalinejr&show_icons=true&locale=en&layout=compact&theme=react&count_private=true" alt="frankalinejr" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frankalinejr&show_icons=true&locale=en&theme=react&count_private=true" alt="frankalinejr" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankalinejr&theme=react&count_private=true" alt="frankalinejr" />
 </p>
