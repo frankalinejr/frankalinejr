@@ -177,9 +177,12 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankalinejr&show_icons=true&locale=en&theme=react&count_private=true" alt="frankalinejr" />
+</p>
+
+<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankalinejr&show_icons=true&locale=en&layout=compact&theme=react&count_private=true" alt="frankalinejr" />
 </p>
-<br />
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankalinejr&theme=react&count_private=true" alt="frankalinejr" />
 </p>
