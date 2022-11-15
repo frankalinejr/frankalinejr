@@ -183,7 +183,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankalinejr&show_icons=true&locale=en&layout=compact&theme=react&count_private=true" alt="frankalinejr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankalinejr&layout=compact&theme=react" alt="frankalinejr" />
 </p>
 
 <p align="center">
