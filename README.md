@@ -1,16 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Frank Aline </h1>
 
-<h3 align="center"> Connect with me </h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/frank-aline-00607131" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank-aline-00607131" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/yuzu.exe#6024" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yuzu.exe#6024" height="30" width="40" />
-  </a>
-</p>
-
 <h1 align="left"> About </h1>
 
 <p align="left"> Backend & Frontend Development + Cybersecurity </p>
@@ -188,4 +177,15 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankalinejr&theme=react&count_private=true" alt="frankalinejr" />
+</p>
+
+<h3 align="center"> Connect with me </h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/frank-aline-00607131" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank-aline-00607131" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/yuzu.exe#6024" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yuzu.exe#6024" height="30" width="40" />
+  </a>
 </p>
