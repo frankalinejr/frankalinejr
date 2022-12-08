@@ -135,14 +135,14 @@
       </a> -->
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td> Backend as a Service (BaaS) </td>
     <td>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
       </a>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td> Testing </td>
     <td>
