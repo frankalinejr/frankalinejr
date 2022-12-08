@@ -13,7 +13,7 @@
 
 <h1 align="left"> About </h1>
 
-<p align="left"> Fullstack Development (i.e., Mongodb Express.js Angular Node.js) + Cybersecurity </p>
+<p align="left"> Fullstack Development (i.e., **M**ongoDB, **E**xpress.js, **A**ngular, and **N**ode.js) + Cybersecurity </p>
 
 - 🌱 I’m currently learning **React**
 
